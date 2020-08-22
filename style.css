@@ -1,0 +1,12 @@
+header {
+    background-image: url("Assets/dual.jpg");
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+
+#search-button {
+    color: white;
+    background-color: skyblue;
+    border: skyblue;
+}
